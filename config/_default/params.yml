@@ -135,7 +135,7 @@ social:
   # behance: https://www.behance.net/yourname
     - name: bilibili
     url: https://space.bilibili.com/29834820
-  # bilibili: https://space.bilibili.com/29834820
+   bilibili: https://space.bilibili.com/29834820
   # weibo: https://weibo.com/yourname
   # zhihu: https://www.zhihu.com/people/yourname
   # reddit: https://www.reddit.com/user/yourname
@@ -642,7 +642,7 @@ service_worker:
 
 # Experimental
 live2d:
-  enable: false
+  enable: true
   position: left # left or right
 
 # Experimental
