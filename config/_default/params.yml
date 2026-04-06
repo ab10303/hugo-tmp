@@ -133,9 +133,9 @@ social:
   # flickr: https://www.flickr.com/photos/yourname
   # dribbble: https://dribbble.com/yourname
   # behance: https://www.behance.net/yourname
-   name: bilibili
-    url: https://space.bilibili.com/29834820
-   #bilibili: https://space.bilibili.com/29834820
+   #name: bilibili
+    #url: https://space.bilibili.com/29834820
+   bilibili: https://space.bilibili.com/29834820
   # weibo: https://weibo.com/yourname
   # zhihu: https://www.zhihu.com/people/yourname
   # reddit: https://www.reddit.com/user/yourname
