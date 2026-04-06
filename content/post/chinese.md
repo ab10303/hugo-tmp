@@ -2,8 +2,8 @@
 title: 中文測試
 # description: 中文測試
 
-date: 2022-06-09T20:12:52+08:00
-lastmod: 2022-06-09T20:12:52+08:00
+date: 2026-04-07T00:12:52+08:00
+lastmod: 2026-04-07T00:15:52+08:00
 ---
 
 This is a Chinese test post.
