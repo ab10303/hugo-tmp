@@ -120,6 +120,9 @@ sidebar:
     show_common: true # whether to show common sidebar, ignored on mobile devices
 
 social:
+  - name: bilibili
+    url: https://space.bilibili.com/29834820
+
   # email: mailto:xxx@gmail.com
   # github: https://github.com/yourname
   # google: https://plus.google.com/yourname
@@ -135,7 +138,7 @@ social:
   # behance: https://www.behance.net/yourname
   #name: bilibili
   #url: https://space.bilibili.com/29834820
-bilibili: https://space.bilibili.com/29834820
+  #bilibili: https://space.bilibili.com/29834820
   # weibo: https://weibo.com/yourname
   # zhihu: https://www.zhihu.com/people/yourname
   # reddit: https://www.reddit.com/user/yourname
