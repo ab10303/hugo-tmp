@@ -17,6 +17,9 @@ menu:
   - name: friend
     url: "friend"
     icon:
+  - name: image gallery
+    url: "image_gallery"
+    icon:
 
 mainSections: ["post"]
 # 年，月，日及时间的格式化样式
@@ -714,7 +717,7 @@ internal_theme:
   light:
     # 这里定义了几个梯度的蓝色，替代原本的红色
     --red-0: '#87cefa'  # 最亮的主色（用于链接、按钮背景）
-    --red-1: '#87ceeb' # 稍深一点的主色（用于悬停状态）
+    --red-1: '#afddfa' # 稍深一点的主色（用于悬停状态）
     --red-2: '#87cefa' # 正常状态
     --red-3: '#afddfa' # 点击或边框
     --red-4: '#c5e6fa' # 深色文字或强调
