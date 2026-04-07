@@ -1,6 +1,6 @@
 ---
-draft: false
 title: "图库"
+layout: "gallery"
 date: 2026-04-07T20:12:52+08:00
 lastmod: 2026-04-07T20:15:52+08:00
 ---
