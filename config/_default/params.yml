@@ -7,7 +7,7 @@
 menu:
   - name: home
     url: ""
-    icon: # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
+    icon: false # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: "archives"
     icon:
@@ -47,7 +47,7 @@ subtitle:
     showCursor: true            # 是否显示闪烁的字符
     cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "少女祈祷中..."        # 当 typing.enable = false 时使用
+  text: "你好~谢谢你来看我！"        # 当 typing.enable = false 时使用
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -122,9 +122,11 @@ sidebar:
 social:
   - name: bilibili
     url: https://space.bilibili.com/29834820
+  - name: github
+    url: https://github.com/ab10303
 
   # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+  # github: https://github.com/ab10303
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # facebook: https://www.facebook.com/yourname
@@ -463,8 +465,8 @@ algolia_search:
 preloader:
   enable: true
   text: 
-    zh-CN: 少女祈祷中...
-    zh-TW: 少女祈禱中...
+    zh-CN: 喵喵喵...
+    zh-TW: 喵喵喵...
     en: Loading...
     ja: 少女祈祷中...
     pt-BR: Carregando...
@@ -572,7 +574,7 @@ moe_icp:
 
 # Sponsor
 sponsor:
-  enable: true
+  enable: false
   tip: 
     zh-CN: 请作者喝杯咖啡吧
     zh-TW: 請作者喝杯咖啡吧
@@ -591,13 +593,13 @@ sponsor:
 
 # Share
 share:
-   - facebook
-   - twitter
-   - linkedin
-   - reddit
-   - weibo
-   - qq
-   - weixin
+   #- facebook
+   #- twitter
+   #- linkedin
+   #- reddit
+   #- weibo
+   #- qq
+   #- weixin
 
 # show categories card on home page
 home_categories:
@@ -645,12 +647,12 @@ service_worker:
 
 # Experimental
 live2d:
-  enable: true
+  enable: false
   position: left # left or right
 
 # Experimental
 live2d_widgets:
-  enable: true
+  enable: false
   position: left # left or right
 
 # https://github.com/CodeByZach/pace
@@ -713,22 +715,22 @@ internal_theme:
     # 这里定义了几个梯度的蓝色，替代原本的红色
     --red-0: '#7ec8f3'  # 最亮的主色（用于链接、按钮背景）
     --red-1: '#6bbbe8' # 稍深一点的主色（用于悬停状态）
-    --red-2: '#5aadc9' # 正常状态
-    --red-3: '#f0f8ff' # 点击或边框
-    --red-4: '#e1effd' # 深色文字或强调
-    --red-5: '#ffecec' # 极淡的背景色（用于标签背景）
+    --red-2: '#dbeafe' # 正常状态
+    --red-3: '#bfdbfe' # 点击或边框
+    --red-4: '#93c5fd' # 深色文字或强调
+    --red-5: '#60a5fa' # 极淡的背景色（用于标签背景）
     --red-5-5: '#f2f2f2' # 稍微深一点的淡背景
-    --red-6: '#e6e6e6' # 白色（用于反色文字）
+    --red-6: '#eff6ff' # 白色（用于反色文字）
     # --- 阴影颜色 ---
     --color-red-6-shadow: 'rgba(125, 164, 255, 0.6)' # 对应主色的阴影
     --color-red-3-shadow: 'rgba(125, 164, 255, 0.3)'
 
-    --highlight-nav: "#444444"
+    --highlight-nav: "#4b5563"
     --highlight-scrollbar: "#cfd9db"
     --highlight-background: "#fdfdfd"
     --highlight-selection: "#b3d7ff"
-    --highlight-foreground: "#333333"
-    --highlight-comment: "#888888"
+    --highlight-foreground: "#374151"
+    --highlight-comment: "#9ca3af"
     --highlight-red: "#d73a49"
     --highlight-orange: "#e36209"
     --highlight-yellow: "#cb911d"
