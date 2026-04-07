@@ -28,7 +28,7 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: 琴音
 email: my@email.ab10303.dpdns.org
-description: "少女祈祷中..."
+description: "你好啊喵~"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
@@ -711,7 +711,7 @@ material_theme:
 internal_theme:
   light:
     # 这里定义了几个梯度的蓝色，替代原本的红色
-    --red-0: '#7daff'  # 最亮的主色（用于链接、按钮背景）
+    --red-0: '#7da4ff'  # 最亮的主色（用于链接、按钮背景）
     --red-1: '#5d84ff' # 稍深一点的主色（用于悬停状态）
     --red-2: '#4a6ef6' # 正常状态
     --red-3: '#3a5ce6' # 点击或边框
