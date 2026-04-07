@@ -722,8 +722,8 @@ internal_theme:
     --red-5-5: '#fff3f3' # 稍微深一点的淡背景
     --red-6: '#fff7f7' # 白色（用于反色文字）
     # --- 阴影颜色 ---
-    --color-red-6-shadow: 'rgba(255, 78, 78, 0.6)' # 对应主色的阴影
-    --color-red-3-shadow: 'rgba(255, 78, 78, 0.6)'
+    --color-red-6-shadow: 'rgba(135, 206, 235, 0.6)' # 对应主色的阴影
+    --color-red-3-shadow: 'rgba(135, 206, 235, 0.6)'
 
     --highlight-nav: "#4b5563"
     --highlight-scrollbar: "#cfd9db"
