@@ -713,17 +713,17 @@ material_theme:
 internal_theme:
   light:
     # 这里定义了几个梯度的蓝色，替代原本的红色
-    --red-0: '#7ec8f3'  # 最亮的主色（用于链接、按钮背景）
-    --red-1: '#6bbbe8' # 稍深一点的主色（用于悬停状态）
-    --red-2: '#dbeafe' # 正常状态
+    --red-0: '#87cefa'  # 最亮的主色（用于链接、按钮背景）
+    --red-1: '#87ceeb' # 稍深一点的主色（用于悬停状态）
+    --red-2: '#87cefa' # 正常状态
     --red-3: '#bfdbfe' # 点击或边框
-    --red-4: '#93c5fd' # 深色文字或强调
-    --red-5: '#60a5fa' # 极淡的背景色（用于标签背景）
-    --red-5-5: '#f2f2f2' # 稍微深一点的淡背景
-    --red-6: '#eff6ff' # 白色（用于反色文字）
+    --red-4: '#87ceeb' # 深色文字或强调
+    --red-5: '#ffecec' # 极淡的背景色（用于标签背景）
+    --red-5-5: '#fff3f3' # 稍微深一点的淡背景
+    --red-6: '#fff7f7' # 白色（用于反色文字）
     # --- 阴影颜色 ---
-    --color-red-6-shadow: 'rgba(125, 164, 255, 0.6)' # 对应主色的阴影
-    --color-red-3-shadow: 'rgba(125, 164, 255, 0.3)'
+    --color-red-6-shadow: 'rgba(255, 78, 78, 0.6)' # 对应主色的阴影
+    --color-red-3-shadow: 'rgba(255, 78, 78, 0.6)'
 
     --highlight-nav: "#4b5563"
     --highlight-scrollbar: "#cfd9db"
