@@ -17,7 +17,7 @@ menu:
   - name: friend
     url: "friend"
     icon:
-  - name: image gallery
+  - name: 图库
     url: "image_gallery"
     icon:
 
