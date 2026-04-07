@@ -10,4 +10,4 @@ lastmod: 2026-04-07T20:15:52+08:00
 
 {{< gallery >}}
 dir="images/kaguya/"
-{{</gallery>}}
+{{</ gallery >}}
