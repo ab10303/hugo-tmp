@@ -17,8 +17,8 @@ menu:
   - name: friend
     url: "friend"
     icon:
-  - name: images gallery
-    url: "/gallery/"
+  - name: gallery
+    url: "gallery"
     icon:
 
 mainSections: ["post"]
