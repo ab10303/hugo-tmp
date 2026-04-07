@@ -11,12 +11,12 @@ weight = 1
 hasCJKLanguage = true
 
 [markup.goldmark.extensions.passthrough]
-enable = false
+enable = true
 delimiters.block = [["\\[", "\\]"], ["$$", "$$"]]
 delimiters.inline = [["\\(", "\\)"], ["$", "$"]]
 
 [markup.highlight]
-guessSyntax = false
+guessSyntax = true
 noClasses = false
 
 [outputs]
@@ -24,6 +24,6 @@ home = ["Algolia", "HTML", "RSS"]
 
 [outputFormats.Algolia]
 baseName = "algolia"
-isPlainText = false
+isPlainText = true
 mediaType = "application/json"
-notAlternative = false
+notAlternative = true
