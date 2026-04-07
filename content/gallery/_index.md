@@ -1,5 +1,5 @@
 ---
-title: "images gallery"
+title: "gallery"
 date: 2026-04-07
 ---
 
