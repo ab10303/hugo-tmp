@@ -34,5 +34,7 @@ lastmod: 2026-04-08T20:07:52+08:00
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/23.gif)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/24.gif)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/25.gif)
+![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/28.gif)
+![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/29.gif)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/27.gif)
 {{</ gallery >}}
