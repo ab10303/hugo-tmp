@@ -19,7 +19,7 @@ menu:
     icon: false
   - name: images gallery
     url: "images_gallery"
-    icon: 
+    icon: false
 
 mainSections: ["post"]
 # 年，月，日及时间的格式化样式
