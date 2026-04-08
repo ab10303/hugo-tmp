@@ -28,6 +28,6 @@ isPlainText = true
 mediaType = "application/json"
 notAlternative = true
 
-[menu.main]
+[menu]
 name = '图库'
 pageRef = 'gallery'
