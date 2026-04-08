@@ -10,16 +10,16 @@ menu:
     icon: false # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: "archives"
-    icon:
+    icon: false
   - name: about
     url: "about"
-    icon:
+    icon: false
   - name: friend
     url: "friend"
-    icon:
-  - name: gallery
-    url: "gallery"
-    icon:
+    icon: false
+  - name: images_gallery
+    url: "images_gallery"
+    icon: false
 
 mainSections: ["post"]
 # 年，月，日及时间的格式化样式
@@ -125,10 +125,12 @@ sidebar:
 social:
   - name: bilibili
     url: https://space.bilibili.com/29834820
+  - name: email
+    url: https://ab1030389703@gmail.com
   - name: github
     url: https://github.com/ab10303
 
-  # email: mailto:xxx@gmail.com
+  # email: https://ab1030389703@qq.com
   # github: https://github.com/ab10303
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
@@ -172,7 +174,7 @@ recent_posts_limits: 5
 tagcloud_limits: 20
 
 # Archive behavior
-only_show_capsule_in_index: false # If you have hugo amounts of tags and categories, you can set this to true to only show the capsule in the index page for better performance
+only_show_capsule_in_index: true # If you have hugo amounts of tags and categories, you can set this to true to only show the capsule in the index page for better performance
 uppercase_capsule: true # If you want to keep taxonomic capsule unchanged, please set this to false
 
 show_update_time: false # If you want to show the update time, please set this to true
