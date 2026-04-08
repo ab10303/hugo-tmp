@@ -12,7 +12,7 @@ lastmod: 2026-04-08T20:07:52+08:00
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/2.jpg)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/3.png)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/4.png)
-![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/26.ipeg)
+![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/26.jpeg)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/5.gif)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/6.gif)
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/7.gif)
