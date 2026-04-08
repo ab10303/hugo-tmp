@@ -1,6 +1,6 @@
 ---
 title: 图库
-description: images_gallery
+description: 图库
 date: 2026-04-08T20:12:52+08:00
 lastmod: 2026-04-08T20:55:52+08:00
 ---
