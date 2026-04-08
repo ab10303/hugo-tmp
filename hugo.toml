@@ -1,7 +1,7 @@
 baseURL = 'https://103.dpdns.org/'
 languageCode = 'zh-CN'
 title = '琴音 的博客'
-theme = 'hugo-theme-reimu'
+theme = ['hugo-theme-reimu', 'hugo-shortcode-gallery']
 
 defaultContentLanguage = 'zh-CN'
 [languages]
