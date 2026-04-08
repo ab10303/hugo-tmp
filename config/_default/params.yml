@@ -382,8 +382,8 @@ valine:
 
 # https://waline.js.org/
 waline:
-  enable: false
-  serverURL:
+  enable: true
+  serverURL: "https://waline-hello-world-one.vercel.app"
   # lang: zh-CN # deprecated, use html.lang instead
   locale: {} # https://waline.js.org/guide/features/i18n.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80
   emoji:
@@ -454,9 +454,9 @@ utterances:
 ########################################
 
 algolia_search:
-  enable: false
-  appID:
-  apiKey:
+  enable: true
+  appID: F7FVVZ33DX
+  apiKey: a01bccd720ff742c33ab8e2501d0bd82
   indexName:
   hits:
     per_page: 10
