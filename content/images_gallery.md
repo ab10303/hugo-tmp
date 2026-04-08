@@ -1,9 +1,11 @@
 ---
 title: 图库
-description: 图库
-date: 2026-04-07T20:12:52+08:00
-lastmod: 2026-04-08T20:09:52+08:00
+description: images_gallery
+date: 2026-04-08T20:12:52+08:00
+lastmod: 2026-04-08T20:55:52+08:00
 ---
+
+## 创建个图库菜单试试~
 
 {{< gallery >}}
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/c5d4b27b2cbb6410c0822cd57996a4644f153c9f/images/kaguya/1.png)
