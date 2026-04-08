@@ -162,10 +162,10 @@ social:
   # tiktok:
 
 widgets:
+  - recent_posts
   - category
   - tag
-  - tagcloud
-  - recent_posts
+  #- tagcloud
 
 # Widget behavior
 category_limits: 10
