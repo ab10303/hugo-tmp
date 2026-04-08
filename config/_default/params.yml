@@ -17,7 +17,7 @@ menu:
   - name: friend
     url: "friend"
     icon: false
-  - name: images_gallery
+  - name: images gallery
     url: "images_gallery"
     icon: false
 
@@ -177,7 +177,7 @@ tagcloud_limits: 20
 only_show_capsule_in_index: true # If you have hugo amounts of tags and categories, you can set this to true to only show the capsule in the index page for better performance
 uppercase_capsule: false # If you want to keep taxonomic capsule unchanged, please set this to false
 
-show_update_time: false # If you want to show the update time, please set this to true
+show_update_time: true # If you want to show the update time, please set this to true
 
 # Summary content
 summary:
