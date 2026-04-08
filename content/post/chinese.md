@@ -1,7 +1,8 @@
 ---
 title: 中文測試
 # description: 中文測試
-
+banner:
+cover: https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/gallery/p7.webp
 date: 2026-04-07T00:12:52+08:00
 lastmod: 2026-04-07T00:15:52+08:00
 ---
