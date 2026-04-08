@@ -4,7 +4,7 @@ date: 2026-04-08T20:12:52+08:00
 lastmod: 2026-04-08T20:55:52+08:00
 ---
 
-## 创建个图库菜单试试~ （最后还是~~让[DeepSeek](https://chat.deepseek.com)]~~帮了大忙
+## 创建个图库菜单试试~ （最后还是~~~让[DeepSeek](https://chat.deepseek.com)~~~帮了大忙
 
 {{< gallery >}}
 ![alttext](https://raw.githubusercontent.com/ab10303/hugo-tmp/c5d4b27b2cbb6410c0822cd57996a4644f153c9f/images/kaguya/1.png)
