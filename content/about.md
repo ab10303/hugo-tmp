@@ -1,7 +1,8 @@
 ---
 title: 关于我
 description: 关于
-
+banner: 
+cover: https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/gallery/p6.webp
 date: 2026-04-09T10:18:52+08:00
 lastmod: 2022-06-09T10:58:52+08:00
 ---
