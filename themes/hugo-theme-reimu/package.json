@@ -4,6 +4,9 @@
     "prepare": "husky",
     "commit": "pnpx git-cz"
   },
+  "scripts": {
+    "algolia": "atomic-algolia"
+  }
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
