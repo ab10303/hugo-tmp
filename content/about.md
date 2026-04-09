@@ -1,9 +1,13 @@
 ---
-title: 关于
+title: 关于我
 description: 关于
 
-date: 2022-06-09T20:12:52+08:00
-lastmod: 2022-06-09T20:12:52+08:00
+date: 2026-04-09T10:18:52+08:00
+lastmod: 2022-06-09T10:58:52+08:00
 ---
 
-A Hakurei Reimu style Hugo theme. Migrated from [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu).
+## 这里是琴音的博客
+
+这里是小白一只，没有一点编程知识喵~
+在这之前，我注册域名只是用来解析ip远程访问路由器和串流，心血来潮给域名整了个博客
+~~明明啥都不会~~，却很喜欢尝试折腾这些东西
