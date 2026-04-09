@@ -2,6 +2,8 @@
 title: "图库"
 banner:
 cover: https://raw.githubusercontent.com/ab10303/hugo-tmp/refs/heads/master/images/kaguya/2.jpg
+tags:
+  - 休闲/娱乐
 date: 2026-04-07T20:12:52+08:00
 lastmod: 2026-04-08T20:07:52+08:00
 
